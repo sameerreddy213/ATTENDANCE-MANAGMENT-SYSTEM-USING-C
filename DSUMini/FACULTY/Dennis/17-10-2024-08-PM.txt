@@ -1,0 +1,24 @@
+Subject-Name=Artificial intelligence		COURSECODE=CS3051	Subject-Incharge=Dr. Moirangthem Dennis Singh
+17DCO01	SHADAB			Present
+17DCO02	ADNAN			Absent
+17DCO01	UBAID			Present
+17DCO01	AZAM			Absent
+17DCO01	OMAR			Present
+17DCO01	ABDUSSALAM			Absent
+17DCO01	NAVID			Present
+17DCO01	FAISAL			Absent
+17DCO01	RAYAN			Present
+17DCO01	REHAN			Present
+16CO01	HASIB			Present
+16CO01	RAMEEZ			Present
+16CO01	DANISH			Absent
+16CO01	ASHFAQUE			Present
+16CO01	NADEEM			Absent
+16CO01	HARIS			Present
+16CO01	HAREESH			Absent
+16CO01	MANZAR			Absent
+16CO01	SAHIL			Present
+16CO01	SAMEER			Present
+Attendance Completed of Class SE.CO Batch-2016-2017 
+Total number of student Present	12	on 17-10-2024 at 08:23:PM
+Total number of student Absent 	8	on 17-10-2024 at 08:23:PM
